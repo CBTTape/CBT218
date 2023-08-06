@@ -1,0 +1,23 @@
+2023-08-06 02:17:32.530336 - Initialized conversion of CBT218
+2023-08-06 02:17:32.701375 - Received CBT.V505.FILE218.PDS from FILE218.XMI 
+2023-08-06 02:17:32.703684 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:17:32.704768 - Found $DOCERB.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/$DOCERB
+2023-08-06 02:17:32.705870 - Found @FILE218.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/@FILE218
+2023-08-06 02:17:32.706788 - Found CBTJCL.jcl (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/CBTJCL
+2023-08-06 02:17:32.707683 - Found ERBRUS99.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/ERBRUS99
+2023-08-06 02:17:32.708767 - Found ERBUSASM.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/ERBUSASM
+2023-08-06 02:17:32.709759 - Found ERBUSDTA.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/ERBUSDTA
+2023-08-06 02:17:32.710665 - Found ERBUSMPL.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/ERBUSMPL
+2023-08-06 02:17:32.710672 - Found MVSOBJ.bin containing application/octet-stream, moved to PDS/MVSOBJ
+2023-08-06 02:17:32.712406 - Found MVSUSASM.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/MVSUSASM
+2023-08-06 02:17:32.713252 - Found MVSUSMPL.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/MVSUSMPL
+2023-08-06 02:17:32.714230 - Found SAMPLE.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/SAMPLE
+2023-08-06 02:17:32.714241 - Found SE2OBJ.bin containing application/octet-stream, moved to PDS/SE2OBJ
+2023-08-06 02:17:32.715944 - Found SHAREHDR.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/SHAREHDR
+2023-08-06 02:17:32.716787 - Found SP2RUS99.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/SP2RUS99
+2023-08-06 02:17:32.717759 - Found SP212MPL.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/SP212MPL
+2023-08-06 02:17:32.717767 - Found SP212OBJ.bin containing application/octet-stream, moved to PDS/SP212OBJ
+2023-08-06 02:17:32.719463 - Found SP213MPL.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/SP213MPL
+2023-08-06 02:17:32.719472 - Found SP213OBJ.bin containing application/octet-stream, moved to PDS/SP213OBJ
+2023-08-06 02:17:32.721187 - Found VSAMMAPC.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/VSAMMAPC
+2023-08-06 02:17:32.722181 - Found VSAMMAPP.txt (text/plain) in CBT.V505.FILE218.PDS, moved to PDS/VSAMMAPP
